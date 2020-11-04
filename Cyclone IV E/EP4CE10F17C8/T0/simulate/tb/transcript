@@ -1,0 +1,93 @@
+# Compile of flow_led.v was successful.
+# Compile of flow_led.vt failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Error opening C:/0 TEST/T2/simulate/tb/(vlog-13069) C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt
+# Path name 'C:/0 TEST/T2/simulate/tb/(vlog-13069) C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt' doesn't exist.
+# Error opening C:/0 TEST/T2/simulate/tb/(vlog-13069) C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt
+# Path name 'C:/0 TEST/T2/simulate/tb/(vlog-13069) C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt' doesn't exist.
+# Error opening C:/0 TEST/T2/simulate/tb/(vlog-13069) C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt
+# Path name 'C:/0 TEST/T2/simulate/tb/(vlog-13069) C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt' doesn't exist.
+# Compile of flow_led.v was successful.
+# Compile of flow_led.vt was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of flow_led.v was successful.
+# Compile of flow_led.vt was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of flow_led.v was successful.
+# Compile of flow_led.vt was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.flow_led_vlg_tst
+# vsim -gui work.flow_led_vlg_tst 
+# Start time: 19:15:10 on Nov 04,2020
+# Loading work.flow_led_vlg_tst
+# Loading work.flow_led
+# ** Error: (vsim-3043) Unresolved reference to 'stop'.
+#    Time: 0 ns  Iteration: 0  Instance: /flow_led_vlg_tst File: C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt Line: 50
+# Error loading design
+# End time: 19:15:11 on Nov 04,2020, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 9
+# Compile of flow_led.v was successful.
+# Compile of flow_led_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of flow_led.v was successful.
+# Compile of flow_led_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.flow_led_vlg_tst
+# vsim -gui work.flow_led_vlg_tst 
+# Start time: 19:57:05 on Nov 04,2020
+# Loading work.flow_led_vlg_tst
+# Loading work.flow_led
+# ** Error: (vsim-3043) Unresolved reference to 'stop'.
+#    Time: 0 ns  Iteration: 0  Instance: /flow_led_vlg_tst File: C:/0 TEST/T2/simulate/tb/flow_led_tb.v Line: 50
+# Error loading design
+# End time: 19:57:06 on Nov 04,2020, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 5
+# Compile of flow_led.v was successful.
+# Compile of flow_led_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of flow_led.v was successful.
+# Compile of flow_led_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.flow_led_tb
+# vsim -gui work.flow_led_tb 
+# Start time: 19:57:39 on Nov 04,2020
+# Loading work.flow_led_tb
+# Loading work.flow_led
+run -all
+# Compile of flow_led.v was successful.
+# Compile of flow_led_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of flow_led.v was successful.
+# Compile of flow_led_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of flow_led.v was successful.
+# Compile of flow_led_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.flow_led_tb
+# End time: 20:03:53 on Nov 04,2020, Elapsed time: 0:06:14
+# Errors: 0, Warnings: 6
+# vsim -gui work.flow_led_tb 
+# Start time: 20:03:53 on Nov 04,2020
+# Loading work.flow_led_tb
+# Loading work.flow_led
+add wave -position insertpoint sim:/flow_led_tb/u0_flow_led/*
+# Compile of flow_led.v was successful.
+# Compile of flow_led.vt was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of flow_led.v was successful.
+# Compile of flow_led.vt was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of flow_led.v was successful.
+# Compile of flow_led.vt was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.flow_led_vlg_tst
+# End time: 20:10:02 on Nov 04,2020, Elapsed time: 0:06:09
+# Errors: 0, Warnings: 6
+# vsim -gui work.flow_led_vlg_tst 
+# Start time: 20:10:02 on Nov 04,2020
+# Loading work.flow_led_vlg_tst
+# Loading work.flow_led
+add wave -position insertpoint sim:/flow_led_vlg_tst/i1/*
+run
+# End time: 20:53:44 on Nov 04,2020, Elapsed time: 0:43:42
+# Errors: 0, Warnings: 1

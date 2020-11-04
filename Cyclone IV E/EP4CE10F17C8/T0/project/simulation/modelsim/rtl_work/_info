@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/0 TEST/T2/project/simulation/modelsim
+vflow_led
+Z1 !s110 1604494855
+!i10b 1
+!s100 Z;?_==SD367K@`hKMQA2?0
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ife^kn8F8_J9]bS9fkJJSg0
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1604491321
+8C:/0 TEST/T2/code/flow_led.v
+FC:/0 TEST/T2/code/flow_led.v
+!i122 0
+L0 22 35
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1604494855.000000
+!s107 C:/0 TEST/T2/code/flow_led.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/0 TEST/T2/code|C:/0 TEST/T2/code/flow_led.v|
+!i113 1
+Z6 o-vlog01compat -work work
+!s92 -vlog01compat -work work {+incdir+C:/0 TEST/T2/code}
+Z7 tCvgOpt 0
+vflow_led_vlg_tst
+R1
+!i10b 1
+!s100 0o`@LiEGUS4N;57Ac?aml0
+R2
+IfUN]c88T25^FLi@zEiPj80
+R3
+R0
+w1604491775
+8C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt
+FC:/0 TEST/T2/project/simulation/modelsim/flow_led.vt
+!i122 1
+L0 29 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/0 TEST/T2/project/simulation/modelsim|C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt|
+!i113 1
+R6
+!s92 -vlog01compat -work work {+incdir+C:/0 TEST/T2/project/simulation/modelsim}
+R7

@@ -1,0 +1,67 @@
+# Reading pref.tcl
+# do flow_led_run_msim_gate_verilog.do
+# if {[file exists gate_work]} {
+# 	vdel -lib gate_work -all
+# }
+# vlib gate_work
+# vmap work gate_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work gate_work 
+# Copying C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+. {flow_led.vo}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:09:42 on Nov 04,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+." flow_led.vo 
+# -- Compiling module flow_led
+# -- Compiling module hard_block
+# 
+# Top level modules:
+# 	flow_led
+# End time: 21:09:42 on Nov 04,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vlog -vlog01compat -work work +incdir+C:/0\ TEST/T2/project/simulation/modelsim {C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 21:09:42 on Nov 04,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/0 TEST/T2/project/simulation/modelsim" C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt 
+# -- Compiling module flow_led_vlg_tst
+# 
+# Top level modules:
+# 	flow_led_vlg_tst
+# End time: 21:09:42 on Nov 04,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera_ver -L cycloneive_ver -L gate_work -L work -voptargs="+acc"  flow_led_vlg_tst
+# vsim -t 1ps -L altera_ver -L cycloneive_ver -L gate_work -L work -voptargs=""+acc"" flow_led_vlg_tst 
+# Start time: 21:09:42 on Nov 04,2020
+# Loading work.flow_led_vlg_tst
+# Loading work.flow_led
+# Loading work.hard_block
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading altera_ver.dffeas
+# Loading altera_ver.PRIM_GDFF_LOW
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+# ** Note: $stop    : C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt(50)
+#    Time: 1100 ns  Iteration: 0  Instance: /flow_led_vlg_tst
+# Break in Module flow_led_vlg_tst at C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt line 50
+add wave -position insertpoint  \
+sim:/flow_led_vlg_tst/i1/counter
+run -continue
+run
+restart
+run
+# End time: 21:15:24 on Nov 04,2020, Elapsed time: 0:05:42
+# Errors: 0, Warnings: 0

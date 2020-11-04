@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vflow_led
+Z0 !s110 1604491790
+!i10b 1
+!s100 o=D]i>R[SMJ3TBDGQ]2i?1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I`d0eE1mBA6BJzERQ2lR8>3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/0 TEST/T2/simulate/tb
+w1604491321
+8C:/0 TEST/T2/code/flow_led.v
+FC:/0 TEST/T2/code/flow_led.v
+!i122 25
+L0 22 35
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1604491790.000000
+!s107 C:/0 TEST/T2/code/flow_led.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/0 TEST/T2/code/flow_led.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vflow_led_tb
+!s110 1604491423
+!i10b 1
+!s100 H<4:FIS^5d_5k^2;z1=Xe0
+R1
+IMnhJZK?h4>TezVN4GaZUe1
+R2
+R3
+w1604491040
+8C:/0 TEST/T2/simulate/tb/flow_led_tb.v
+FC:/0 TEST/T2/simulate/tb/flow_led_tb.v
+!i122 20
+L0 3 34
+R4
+r1
+!s85 0
+31
+!s108 1604491423.000000
+!s107 C:/0 TEST/T2/simulate/tb/flow_led_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/0 TEST/T2/simulate/tb/flow_led_tb.v|
+!i113 1
+R6
+R7
+vflow_led_vlg_tst
+R0
+!i10b 1
+!s100 24l;7lh7G@??<?ahD:[A30
+R1
+IH2Xni7P3R;zFDo_F5T@J]0
+R2
+R3
+w1604491775
+8C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt
+FC:/0 TEST/T2/project/simulation/modelsim/flow_led.vt
+!i122 26
+L0 29 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/0 TEST/T2/project/simulation/modelsim/flow_led.vt|
+!i113 1
+R6
+R7
