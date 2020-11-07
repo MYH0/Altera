@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/simulation/qsim
+vhard_block
+Z1 !s110 1604777273
+!i10b 1
+!s100 gcDPfeO4VnekWHf_;3bl:3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IK3<nJcU`bBH7H14Q]<;0o3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1604777270
+Z5 8top.vo
+Z6 Ftop.vo
+!i122 0
+L0 528 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1604777273.000000
+Z9 !s107 top.vo|
+Z10 !s90 -work|work|top.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vtop
+R1
+!i10b 1
+!s100 H87ZnR:8[1J6864JG3HhO3
+R2
+I?>;1M]5Qn[Qk`gZcEahW>2
+R3
+R0
+R4
+R5
+R6
+!i122 0
+L0 32 495
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vtop_vlg_vec_tst
+R1
+!i10b 1
+!s100 jWcMg8Gz4:1T]la1EE=VA2
+R2
+I[Uz59I>9Qci3eFo:e?>SU0
+R3
+R0
+w1604777269
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+!i122 1
+L0 30 64
+R7
+r1
+!s85 0
+31
+R8
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R11
+R12

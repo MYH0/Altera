@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/simulate/tb
+vfull_adder
+Z1 !s110 1604740685
+!i10b 1
+!s100 XD;b[l[iHmG6ZEg6ihP:30
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I1Jc@PC:bHPo1^XS0A_g__1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1604739682
+Z5 8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/code/serial_full_adder_3bit.v
+Z6 FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/code/serial_full_adder_3bit.v
+!i122 10
+L0 1 25
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1604740685.000000
+Z9 !s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/code/serial_full_adder_3bit.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/code/serial_full_adder_3bit.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vserial_full_adder_3bit
+R1
+!i10b 1
+!s100 kVB;GM>eb^;=I8LdDlYdC1
+R2
+IaSZNn0_kghYlbHOJc@Nli0
+R3
+R0
+R4
+R5
+R6
+!i122 10
+L0 27 18
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vserial_full_adder_3bit_tb
+R1
+!i10b 1
+!s100 iD7@4VQ566S<0;BnJWUEK0
+R2
+I<^URmL95Gh2dzmdUYL@lg0
+R3
+R0
+w1604739924
+Z13 8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/simulate/tb/serial_full_adder_3bit_tb.v
+Z14 FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/simulate/tb/serial_full_adder_3bit_tb.v
+!i122 11
+Z15 L0 3 24
+R7
+r1
+!s85 0
+31
+R8
+Z16 !s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/simulate/tb/serial_full_adder_3bit_tb.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/simulate/tb/serial_full_adder_3bit_tb.v|
+!i113 1
+R11
+R12
+vserial_full_adder_4bit_tb
+!s110 1604739338
+!i10b 1
+!s100 iBg4kUF4nMMnhU:Mg7Ynm2
+R2
+Id;lMO6[6ejUmz`aWPmh_a2
+R3
+R0
+w1604739318
+R13
+R14
+!i122 1
+R15
+R7
+r1
+!s85 0
+31
+!s108 1604739338.000000
+R16
+R17
+!i113 1
+R11
+R12

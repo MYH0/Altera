@@ -1,0 +1,77 @@
+|top
+a[0] => a[0].IN2
+a[1] => a[1].IN2
+a[2] => a[2].IN2
+b[0] => b[0].IN2
+b[1] => b[1].IN2
+b[2] => b[2].IN2
+c => c.IN2
+chaoqian_c1 << threebit:U2.c_out
+chaoqian_sum[0] << threebit:U2.sum
+chaoqian_sum[1] << threebit:U2.sum
+chaoqian_sum[2] << threebit:U2.sum
+f_3bits_add_c1 << f_3bits_add:U1.c1
+f_3bits_add_sum[0] << f_3bits_add:U1.sum
+f_3bits_add_sum[1] << f_3bits_add:U1.sum
+f_3bits_add_sum[2] << f_3bits_add:U1.sum
+
+
+|top|f_3bits_add:U1
+a[0] => a[0].IN1
+a[1] => a[1].IN1
+a[2] => a[2].IN1
+b[0] => b[0].IN1
+b[1] => b[1].IN1
+b[2] => b[2].IN1
+c => c.IN1
+c1 <= f_1bit_add:U3.c1
+sum[0] <= f_1bit_add:U1.sum
+sum[1] <= f_1bit_add:U2.sum
+sum[2] <= f_1bit_add:U3.sum
+
+
+|top|f_3bits_add:U1|f_1bit_add:U1
+a => Add0.IN1
+b => Add0.IN2
+c => Add1.IN4
+c1 <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+sum <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top|f_3bits_add:U1|f_1bit_add:U2
+a => Add0.IN1
+b => Add0.IN2
+c => Add1.IN4
+c1 <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+sum <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top|f_3bits_add:U1|f_1bit_add:U3
+a => Add0.IN1
+b => Add0.IN2
+c => Add1.IN4
+c1 <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+sum <= Add1.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top|threebit:U2
+sum[0] <= sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[1] <= sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[2] <= sum.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= c.DB_MAX_OUTPUT_PORT_TYPE
+a[0] => p[0].IN0
+a[0] => g[0].IN0
+a[1] => p[1].IN0
+a[1] => g[1].IN0
+a[2] => p[2].IN0
+a[2] => g[2].IN0
+b[0] => p[0].IN1
+b[0] => g[0].IN1
+b[1] => p[1].IN1
+b[1] => g[1].IN1
+b[2] => p[2].IN1
+b[2] => g[2].IN1
+c_in => c.IN1
+c_in => sum.IN1
+
+

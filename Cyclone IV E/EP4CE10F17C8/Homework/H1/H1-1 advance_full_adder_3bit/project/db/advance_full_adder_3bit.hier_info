@@ -1,0 +1,21 @@
+|advance_full_adder_3bit
+sum[0] <= sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[1] <= sum.DB_MAX_OUTPUT_PORT_TYPE
+sum[2] <= sum.DB_MAX_OUTPUT_PORT_TYPE
+c_out <= c.DB_MAX_OUTPUT_PORT_TYPE
+a[0] => p[0].IN0
+a[0] => g[0].IN0
+a[1] => p[1].IN0
+a[1] => g[1].IN0
+a[2] => p[2].IN0
+a[2] => g[2].IN0
+b[0] => p[0].IN1
+b[0] => g[0].IN1
+b[1] => p[1].IN1
+b[1] => g[1].IN1
+b[2] => p[2].IN1
+b[2] => g[2].IN1
+c_in => c.IN1
+c_in => sum.IN1
+
+

@@ -1,0 +1,37 @@
+# Compile of serial_full_adder_3bit.v was successful.
+# Compile of serial_full_adder_3bit_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.serial_full_adder_3bit_tb
+# vsim -gui work.serial_full_adder_3bit_tb 
+# Start time: 17:18:57 on Nov 07,2020
+# Loading work.serial_full_adder_3bit_tb
+# Loading work.serial_full_adder_3bit
+# Loading work.full_adder
+add wave -position insertpoint  \
+sim:/serial_full_adder_3bit_tb/A \
+sim:/serial_full_adder_3bit_tb/B \
+sim:/serial_full_adder_3bit_tb/Ci \
+sim:/serial_full_adder_3bit_tb/S \
+sim:/serial_full_adder_3bit_tb/Co
+run
+#                    0	A=001,B=001,Ci=0,S=010,Co=0
+#                   20	A=111,B=001,Ci=0,S=000,Co=1
+#                   40	A=101,B=001,Ci=0,S=110,Co=0
+#                   60	A=001,B=000,Ci=1,S=010,Co=0
+# ** Note: $stop    : C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/simulate/tb/serial_full_adder_3bit_tb.v(24)
+#    Time: 80 ns  Iteration: 0  Instance: /serial_full_adder_3bit_tb
+# Break in Module serial_full_adder_3bit_tb at C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/simulate/tb/serial_full_adder_3bit_tb.v line 24
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run
+#                    0	A=001,B=001,Ci=0,S=010,Co=0
+#                   20	A=111,B=001,Ci=0,S=000,Co=1
+#                   40	A=101,B=001,Ci=0,S=110,Co=0
+#                   60	A=001,B=000,Ci=1,S=010,Co=0
+# ** Note: $stop    : C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/simulate/tb/serial_full_adder_3bit_tb.v(24)
+#    Time: 80 ns  Iteration: 0  Instance: /serial_full_adder_3bit_tb
+# Break in Module serial_full_adder_3bit_tb at C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/simulate/tb/serial_full_adder_3bit_tb.v line 24
+# WARNING: No extended dataflow license exists
+quit -sim
+# End time: 17:23:15 on Nov 07,2020, Elapsed time: 0:04:18
+# Errors: 0, Warnings: 1

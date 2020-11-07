@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T1 advance_full_adder_4bit/simulate/tb
+vadvance_full_adder_4bit
+Z1 !s110 1604593951
+!i10b 1
+!s100 ^`TaYf6QL?^eJ=6]U^TI80
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ID7kRR>@G>aZ4KMTHC]iVl1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1604592194
+8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T1 advance_full_adder_4bit/code/advance_full_adder_4bit.v
+FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T1 advance_full_adder_4bit/code/advance_full_adder_4bit.v
+!i122 23
+L0 1 17
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1604593951.000000
+!s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T1 advance_full_adder_4bit/code/advance_full_adder_4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T1 advance_full_adder_4bit/code/advance_full_adder_4bit.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vadvance_full_adder_4bit_tb
+R1
+!i10b 1
+!s100 c34G@9_JCeB]Tk00SR]c;0
+R2
+Ik<o7B1DY<5U=m11I_QUnA3
+R3
+R0
+w1604593944
+8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T1 advance_full_adder_4bit/simulate/tb/advance_full_adder_4bit_tb.v
+FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T1 advance_full_adder_4bit/simulate/tb/advance_full_adder_4bit_tb.v
+!i122 24
+L0 2 17
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T1 advance_full_adder_4bit/simulate/tb/advance_full_adder_4bit_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T1 advance_full_adder_4bit/simulate/tb/advance_full_adder_4bit_tb.v|
+!i113 1
+R6
+R7

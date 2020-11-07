@@ -1,0 +1,166 @@
+$comment
+	File created using the following command:
+		vcd file top.msim.vcd -direction
+$end
+$date
+	Sun Nov 08 03:27:55 2020
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module top_vlg_vec_tst $end
+$var reg 3 ! a [2:0] $end
+$var reg 3 " b [2:0] $end
+$var reg 1 # c $end
+$var wire 1 $ chaoqian_c1 $end
+$var wire 1 % chaoqian_sum [2] $end
+$var wire 1 & chaoqian_sum [1] $end
+$var wire 1 ' chaoqian_sum [0] $end
+$var wire 1 ( f_3bits_add_c1 $end
+$var wire 1 ) f_3bits_add_sum [2] $end
+$var wire 1 * f_3bits_add_sum [1] $end
+$var wire 1 + f_3bits_add_sum [0] $end
+
+$scope module i1 $end
+$var wire 1 , gnd $end
+$var wire 1 - vcc $end
+$var wire 1 . unknown $end
+$var tri1 1 / devclrn $end
+$var tri1 1 0 devpor $end
+$var tri1 1 1 devoe $end
+$var wire 1 2 chaoqian_c1~output_o $end
+$var wire 1 3 chaoqian_sum[0]~output_o $end
+$var wire 1 4 chaoqian_sum[1]~output_o $end
+$var wire 1 5 chaoqian_sum[2]~output_o $end
+$var wire 1 6 f_3bits_add_c1~output_o $end
+$var wire 1 7 f_3bits_add_sum[0]~output_o $end
+$var wire 1 8 f_3bits_add_sum[1]~output_o $end
+$var wire 1 9 f_3bits_add_sum[2]~output_o $end
+$var wire 1 : b[2]~input_o $end
+$var wire 1 ; a[0]~input_o $end
+$var wire 1 < b[0]~input_o $end
+$var wire 1 = c~input_o $end
+$var wire 1 > U2|c[1]~1_combout $end
+$var wire 1 ? a[1]~input_o $end
+$var wire 1 @ b[1]~input_o $end
+$var wire 1 A U2|c[1]~0_combout $end
+$var wire 1 B U2|c~2_combout $end
+$var wire 1 C a[2]~input_o $end
+$var wire 1 D U2|c_out~0_combout $end
+$var wire 1 E U2|sum[0]~2_combout $end
+$var wire 1 F U1|U1|Add1~0_combout $end
+$var wire 1 G U1|U3|Add0~0_combout $end
+$var wire 1 H U1|U3|Add1~0_combout $end
+$var wire 1 I U1|U3|Add1~1_combout $end
+$var wire 1 J U1|U2|Add1~0_combout $end
+$var wire 1 K U1|U3|Add1~2_combout $end
+$var wire 1 L U2|sum [2] $end
+$var wire 1 M U2|sum [1] $end
+$var wire 1 N U2|sum [0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+b0 "
+0#
+x$
+x'
+x&
+x%
+x(
+x+
+x*
+x)
+0,
+1-
+x.
+1/
+10
+11
+x2
+x3
+x4
+x5
+x6
+x7
+x8
+x9
+0:
+0;
+0<
+0=
+x>
+0?
+0@
+xA
+xB
+0C
+xD
+xE
+xF
+xG
+xH
+xI
+xJ
+xK
+zN
+xM
+xL
+$end
+#2608
+0D
+#2613
+0G
+#3038
+0H
+#3398
+0A
+#3735
+0>
+#3736
+0F
+#3818
+0I
+#3903
+0E
+#3930
+0K
+#3933
+0B
+#4178
+0J
+#4559
+0M
+#4750
+0L
+#6352
+02
+0$
+#7473
+09
+0)
+#7563
+06
+0(
+#7716
+03
+0'
+#7797
+07
+0+
+#8099
+08
+0*
+#8280
+05
+0%
+#9903
+04
+0&
+#1000000

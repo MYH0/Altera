@@ -1,0 +1,104 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T2 serial_full_adder_4bit/simulate/tb
+vfull_adder
+Z1 !s110 1604598666
+!i10b 1
+!s100 QiD_c^_1VPkzI?9nWVniG1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMi0oG[4;kz2P5YCB5GhNf1
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1604595500
+Z5 8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T2 serial_full_adder_4bit/project/serial_full_adder_4bit.v
+Z6 FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T2 serial_full_adder_4bit/project/serial_full_adder_4bit.v
+!i122 10
+L0 1 23
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1604598666.000000
+Z9 !s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T2 serial_full_adder_4bit/project/serial_full_adder_4bit.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T2 serial_full_adder_4bit/project/serial_full_adder_4bit.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vserial_full_adder_4bit
+R1
+!i10b 1
+!s100 flg3@S=FFoSMOFjm=b`o72
+R2
+IMG9V7h>Kb;3blboM3GU;H3
+R3
+R0
+R4
+R5
+R6
+!i122 10
+L0 25 19
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vserial_full_adder_4bit_tb
+!s110 1604598667
+!i10b 1
+!s100 8zF;RUc8W@76N9UTH6<I90
+R2
+IWOo6oC9KV1PX<[MO?C8X80
+R3
+R0
+w1604598552
+Z13 8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T2 serial_full_adder_4bit/simulate/tb/serial_full_adder_4bit_tb.v
+Z14 FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T2 serial_full_adder_4bit/simulate/tb/serial_full_adder_4bit_tb.v
+!i122 11
+Z15 L0 2 29
+R7
+r1
+!s85 0
+31
+R8
+Z16 !s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T2 serial_full_adder_4bit/simulate/tb/serial_full_adder_4bit_tb.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T2 serial_full_adder_4bit/simulate/tb/serial_full_adder_4bit_tb.v|
+!i113 1
+R11
+R12
+vtb_74HC283
+!s110 1604598454
+!i10b 1
+!s100 j8Kno2F08c>EVEdz2KcL90
+R2
+IedYJPZjEbm:hOT<=AH^lj3
+R3
+R0
+w1604598446
+R13
+R14
+!i122 3
+R15
+R7
+r1
+!s85 0
+31
+!s108 1604598454.000000
+R16
+R17
+!i113 1
+R11
+R12
+ntb_74@h@c283

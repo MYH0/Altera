@@ -1,0 +1,259 @@
+(DELAYFILE 
+(SDFVERSION "3.0" )
+(DESIGN "top")
+(DATE "Sun Nov  1 17:25:46 2020")
+(VENDOR "XILINX")
+(PROGRAM "Vivado")
+(VERSION "2017.4")
+(DIVIDER /)
+(TIMESCALE 1ps)
+(CELL 
+  (CELLTYPE "IBUF")
+  (INSTANCE a_IBUF\[0\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (600.5:725.7:725.7) (600.5:725.7:725.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "IBUF")
+  (INSTANCE a_IBUF\[1\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (600.5:725.7:725.7) (600.5:725.7:725.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "IBUF")
+  (INSTANCE a_IBUF\[2\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (600.5:725.7:725.7) (600.5:725.7:725.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "IBUF")
+  (INSTANCE b_IBUF\[0\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (600.5:725.7:725.7) (600.5:725.7:725.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "IBUF")
+  (INSTANCE b_IBUF\[1\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (600.5:725.7:725.7) (600.5:725.7:725.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "IBUF")
+  (INSTANCE b_IBUF\[2\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (600.5:725.7:725.7) (600.5:725.7:725.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "IBUF")
+  (INSTANCE c_IBUF_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (600.5:725.7:725.7) (600.5:725.7:725.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "OBUF")
+  (INSTANCE chaoqian_c1_OBUF_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (2126.5:2292.7:2292.7) (2126.5:2292.7:2292.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "LUT3")
+  (INSTANCE chaoqian_c1_OBUF_inst_i_1)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I2 O (45.0:56.0:56.0) (45.0:56.0:56.0))
+      (IOPATH I1 O (52.0:65.0:65.0) (52.0:65.0:65.0))
+      (IOPATH I0 O (54.0:67.0:67.0) (54.0:67.0:67.0))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "LUT5")
+  (INSTANCE chaoqian_c1_OBUF_inst_i_2)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I4 O (45.0:56.0:56.0) (45.0:56.0:56.0))
+      (IOPATH I3 O (52.0:65.0:65.0) (52.0:65.0:65.0))
+      (IOPATH I2 O (54.0:67.0:67.0) (54.0:67.0:67.0))
+      (IOPATH I1 O (51.0:64.0:64.0) (51.0:64.0:64.0))
+      (IOPATH I0 O (50.0:63.0:63.0) (50.0:63.0:63.0))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "OBUF")
+  (INSTANCE chaoqian_sum_OBUF\[0\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (2126.5:2292.7:2292.7) (2126.5:2292.7:2292.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "LUT3")
+  (INSTANCE chaoqian_sum_OBUF\[0\]_inst_i_1)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I2 O (42.0:53.0:53.0) (42.0:53.0:53.0))
+      (IOPATH I1 O (42.0:53.0:53.0) (42.0:53.0:53.0))
+      (IOPATH I0 O (42.0:53.0:53.0) (42.0:53.0:53.0))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "OBUF")
+  (INSTANCE chaoqian_sum_OBUF\[1\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (2126.5:2292.7:2292.7) (2126.5:2292.7:2292.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "LUT5")
+  (INSTANCE chaoqian_sum_OBUF\[1\]_inst_i_1)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I4 O (42.0:53.0:53.0) (42.0:53.0:53.0))
+      (IOPATH I3 O (42.0:53.0:53.0) (42.0:53.0:53.0))
+      (IOPATH I2 O (42.0:53.0:53.0) (42.0:53.0:53.0))
+      (IOPATH I1 O (42.0:53.0:53.0) (42.0:53.0:53.0))
+      (IOPATH I0 O (42.0:53.0:53.0) (42.0:53.0:53.0))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "OBUF")
+  (INSTANCE chaoqian_sum_OBUF\[2\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (2126.5:2292.7:2292.7) (2126.5:2292.7:2292.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "LUT3")
+  (INSTANCE chaoqian_sum_OBUF\[2\]_inst_i_1)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I2 O (42.0:53.0:53.0) (42.0:53.0:53.0))
+      (IOPATH I1 O (42.0:53.0:53.0) (42.0:53.0:53.0))
+      (IOPATH I0 O (42.0:53.0:53.0) (42.0:53.0:53.0))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "OBUF")
+  (INSTANCE f_3bits_add_c1_OBUF_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (2126.5:2292.7:2292.7) (2126.5:2292.7:2292.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "OBUF")
+  (INSTANCE f_3bits_add_sum_OBUF\[0\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (2126.5:2292.7:2292.7) (2126.5:2292.7:2292.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "OBUF")
+  (INSTANCE f_3bits_add_sum_OBUF\[1\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (2126.5:2292.7:2292.7) (2126.5:2292.7:2292.7))
+    )
+  )
+)
+(CELL 
+  (CELLTYPE "OBUF")
+  (INSTANCE f_3bits_add_sum_OBUF\[2\]_inst)
+  (DELAY 
+    (PATHPULSE (50.0))
+    (ABSOLUTE 
+      (IOPATH I O (2126.5:2292.7:2292.7) (2126.5:2292.7:2292.7))
+    )
+  )
+)
+(CELL 
+    (CELLTYPE "top")
+    (INSTANCE )
+    (DELAY
+      (ABSOLUTE
+      (INTERCONNECT a_IBUF\[0\]_inst/O chaoqian_sum_OBUF\[0\]_inst_i_1/I0 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT a_IBUF\[0\]_inst/O chaoqian_c1_OBUF_inst_i_2/I1 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT a_IBUF\[0\]_inst/O chaoqian_sum_OBUF\[1\]_inst_i_1/I1 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT a_IBUF\[1\]_inst/O chaoqian_c1_OBUF_inst_i_2/I4 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT a_IBUF\[1\]_inst/O chaoqian_sum_OBUF\[1\]_inst_i_1/I4 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT a_IBUF\[2\]_inst/O chaoqian_c1_OBUF_inst_i_1/I1 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT a_IBUF\[2\]_inst/O chaoqian_sum_OBUF\[2\]_inst_i_1/I1 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT b_IBUF\[0\]_inst/O chaoqian_sum_OBUF\[1\]_inst_i_1/I0 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT b_IBUF\[0\]_inst/O chaoqian_c1_OBUF_inst_i_2/I2 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT b_IBUF\[0\]_inst/O chaoqian_sum_OBUF\[0\]_inst_i_1/I2 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT b_IBUF\[1\]_inst/O chaoqian_c1_OBUF_inst_i_2/I3 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT b_IBUF\[1\]_inst/O chaoqian_sum_OBUF\[1\]_inst_i_1/I3 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT b_IBUF\[2\]_inst/O chaoqian_c1_OBUF_inst_i_1/I0 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT b_IBUF\[2\]_inst/O chaoqian_sum_OBUF\[2\]_inst_i_1/I2 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT c_IBUF_inst/O chaoqian_c1_OBUF_inst_i_2/I0 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT c_IBUF_inst/O chaoqian_sum_OBUF\[0\]_inst_i_1/I1 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT c_IBUF_inst/O chaoqian_sum_OBUF\[1\]_inst_i_1/I2 (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT chaoqian_c1_OBUF_inst_i_1/O chaoqian_c1_OBUF_inst/I (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT chaoqian_c1_OBUF_inst_i_1/O f_3bits_add_c1_OBUF_inst/I (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT chaoqian_c1_OBUF_inst_i_2/O chaoqian_sum_OBUF\[2\]_inst_i_1/I0 (323.0:340.0:340.0) (323.0:340.0:340.0))
+      (INTERCONNECT chaoqian_c1_OBUF_inst_i_2/O chaoqian_c1_OBUF_inst_i_1/I2 (323.0:340.0:340.0) (323.0:340.0:340.0))
+      (INTERCONNECT chaoqian_sum_OBUF\[0\]_inst_i_1/O chaoqian_sum_OBUF\[0\]_inst/I (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT chaoqian_sum_OBUF\[0\]_inst_i_1/O f_3bits_add_sum_OBUF\[0\]_inst/I (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT chaoqian_sum_OBUF\[1\]_inst_i_1/O chaoqian_sum_OBUF\[1\]_inst/I (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT chaoqian_sum_OBUF\[1\]_inst_i_1/O f_3bits_add_sum_OBUF\[1\]_inst/I (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT chaoqian_sum_OBUF\[2\]_inst_i_1/O chaoqian_sum_OBUF\[2\]_inst/I (554.4:583.6:583.6) (554.4:583.6:583.6))
+      (INTERCONNECT chaoqian_sum_OBUF\[2\]_inst_i_1/O f_3bits_add_sum_OBUF\[2\]_inst/I (554.4:583.6:583.6) (554.4:583.6:583.6))
+      )
+    )
+)
+)

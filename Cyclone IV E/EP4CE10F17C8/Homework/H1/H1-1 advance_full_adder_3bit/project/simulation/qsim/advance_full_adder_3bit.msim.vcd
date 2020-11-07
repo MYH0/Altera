@@ -1,0 +1,112 @@
+$comment
+	File created using the following command:
+		vcd file advance_full_adder_3bit.msim.vcd -direction
+$end
+$date
+	Sat Nov 07 10:44:57 2020
+$end
+$version
+	ModelSim Version 2020.1
+$end
+$timescale
+	1ps
+$end
+
+$scope module advance_full_adder_3bit_vlg_vec_tst $end
+$var reg 3 ! a [2:0] $end
+$var reg 3 " b [2:0] $end
+$var reg 1 # c_in $end
+$var wire 1 $ c_out $end
+$var wire 1 % sum [2] $end
+$var wire 1 & sum [1] $end
+$var wire 1 ' sum [0] $end
+
+$scope module i1 $end
+$var wire 1 ( gnd $end
+$var wire 1 ) vcc $end
+$var wire 1 * unknown $end
+$var tri1 1 + devclrn $end
+$var tri1 1 , devpor $end
+$var tri1 1 - devoe $end
+$var wire 1 . sum[0]~output_o $end
+$var wire 1 / sum[1]~output_o $end
+$var wire 1 0 sum[2]~output_o $end
+$var wire 1 1 c_out~output_o $end
+$var wire 1 2 b[0]~input_o $end
+$var wire 1 3 a[0]~input_o $end
+$var wire 1 4 c_in~input_o $end
+$var wire 1 5 sum~0_combout $end
+$var wire 1 6 c[1]~0_combout $end
+$var wire 1 7 b[1]~input_o $end
+$var wire 1 8 a[1]~input_o $end
+$var wire 1 9 c[1]~1_combout $end
+$var wire 1 : sum~1_combout $end
+$var wire 1 ; a[2]~input_o $end
+$var wire 1 < b[2]~input_o $end
+$var wire 1 = c[2]~2_combout $end
+$var wire 1 > sum~2_combout $end
+$var wire 1 ? c~3_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+b0 "
+0#
+x$
+x'
+x&
+x%
+0(
+1)
+x*
+1+
+1,
+1-
+x.
+x/
+x0
+x1
+02
+03
+04
+x5
+x6
+07
+08
+x9
+x:
+0;
+0<
+x=
+x>
+x?
+$end
+#3915
+05
+#3933
+09
+#4037
+06
+#4096
+0=
+#4315
+0?
+#4692
+0>
+#4856
+0:
+#7912
+0.
+0'
+#8102
+01
+0$
+#8490
+00
+0%
+#8657
+0/
+0&
+#1000000

@@ -1,0 +1,8 @@
+{C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T1 advance_full_adder_4bit/code/advance_full_adder_4bit.v} {1 {vlog -work work -stats=none {C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/T1 advance_full_adder_4bit/code/advance_full_adder_4bit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module advance_full_adder_4bit
+
+Top level modules:
+	advance_full_adder_4bit
+
+} {} {}}

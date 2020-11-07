@@ -1,0 +1,126 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-1 advance_full_adder_3bit/simulate/tb
+vf_1bit_add
+Z0 !s110 1604777762
+!i10b 1
+!s100 <l;>b_8<`H]zAJ?>IiJj`3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ii=FaX=R_LjD7j>IiI?mlB1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sim_1/new
+Z4 w1604218724
+Z5 8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/3bit2.v
+Z6 FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/3bit2.v
+!i122 7
+L0 60 10
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1604777762.000000
+Z9 !s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/3bit2.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/3bit2.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vf_3bits_add
+R0
+!i10b 1
+!s100 A=iIm[<NNUd[P@ZHK:Zj<3
+R1
+I07AEzN;];`inQoGUgn1CB3
+R2
+R3
+R4
+R5
+R6
+!i122 7
+L0 23 37
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vthreebit
+R0
+!i10b 1
+!s100 gI@;3CF1VV?4=Ae@>5h3@2
+R1
+IZdHL]Iz9k<en?9We5AbW70
+R2
+R3
+w1604216414
+8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/3bit.v
+FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/3bit.v
+!i122 6
+L0 23 15
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/3bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/3bit.v|
+!i113 1
+R11
+R12
+vtop
+R0
+!i10b 1
+!s100 9>gQn`:E3=FSXDZW@P8Fz0
+R1
+IVhk?jN[EB6j>2[Ald:;K_3
+R2
+R3
+w1604220938
+8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/top.v
+FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/top.v
+!i122 8
+L0 23 24
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sources_1/new/top.v|
+!i113 1
+R11
+R12
+vtop_tb
+R0
+!i10b 1
+!s100 U:BYA6G:MR1Ma^GGCGR8R1
+R1
+IGhPiVnLCXM>6S^l;knM4Y1
+R2
+R3
+w1604222740
+8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sim_1/new/top_tb.v
+FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sim_1/new/top_tb.v
+!i122 5
+L0 23 29
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sim_1/new/top_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/My friend/project_3bit/project_3bit.srcs/sim_1/new/top_tb.v|
+!i113 1
+R11
+R12

@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lenovo/Desktop/fpga/fpga/project_3bit/project_3bit.sim/sim_1/synth/timing/xsim/top_tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lenovo/Desktop/fpga/fpga/project_3bit/project_3bit.srcs/sim_1/new/top_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module top_tb

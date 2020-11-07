@@ -1,0 +1,80 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H1/H1-2 serial_full_adder_3bit/project/simulation/qsim
+vhard_block
+Z1 !s110 1604717315
+!i10b 1
+!s100 :j@n494Czk=H:Lf>SnFT60
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IMOHh?dO07=cb^J`;MbYf81
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z4 w1604717313
+Z5 8serial_full_adder_3bit.vo
+Z6 Fserial_full_adder_3bit.vo
+!i122 22
+L0 327 34
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1604717314.000000
+Z9 !s107 serial_full_adder_3bit.vo|
+Z10 !s90 -work|work|serial_full_adder_3bit.vo|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+vserial_full_adder_3bit
+R1
+!i10b 1
+!s100 cTSe99?3j]O73<W>4jO:h0
+R2
+IRA_[KT:@4oiV9l]HmU9@`1
+R3
+R0
+R4
+R5
+R6
+!i122 22
+L0 32 294
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vserial_full_adder_3bit_vlg_vec_tst
+R1
+!i10b 1
+!s100 dNHd3@2@VUHQkz@0Doio:2
+R2
+IQ;o3W__Cg]b7LU_OnY^DM3
+R3
+R0
+w1604717312
+8Waveform5.vwf.vt
+FWaveform5.vwf.vt
+!i122 23
+L0 30 60
+R7
+r1
+!s85 0
+31
+!s108 1604717315.000000
+!s107 Waveform5.vwf.vt|
+!s90 -work|work|Waveform5.vwf.vt|
+!i113 1
+R11
+R12
