@@ -1,0 +1,25 @@
+# Reading pref.tcl
+# ERROR: No extended dataflow license exists
+# do CPU_BUS_run_msim_rtl_verilog.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 2020.1 Lib Mapping Utility 2020.02 Feb 28 2020
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/20.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vlog -vlog01compat -work work +incdir+C:/0Practice/Hardware/Altera/Cyclone\ IV\ E/EP4CE10F17C8/Homework/H2\ 8_bit\ Register\ x3/8_bit\ Register\ x3/code {C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/code/CPU_BUS.V}
+# Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 20:35:35 on Dec 19,2020
+# vlog -reportprogress 300 -vlog01compat -work work "+incdir+C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/code" C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/code/CPU_BUS.V 
+# -- Compiling module CPU_BUS
+# -- Compiling module RegCPUData
+# 
+# Top level modules:
+# 	CPU_BUS
+# End time: 20:35:35 on Dec 19,2020, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 

@@ -1,0 +1,16 @@
+{C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/code/CPU_BUS.V} {1 {vlog -work work -stats=none {C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/code/CPU_BUS.V}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CPU_BUS
+-- Compiling module RegCPUData
+
+Top level modules:
+	CPU_BUS
+
+} {} {}} {C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v} {1 {vlog -work work -stats=none {C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CPU_BUS_tb
+
+Top level modules:
+	CPU_BUS_tb
+
+} {} {}}

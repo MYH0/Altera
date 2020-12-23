@@ -1,0 +1,7 @@
+
+State Machine - |CPU_BUS|Num
+Name Num.0011 Num.0010 Num.0001 Num.0000 
+Num.0000 0 0 0 0 
+Num.0001 0 0 1 1 
+Num.0010 0 1 0 1 
+Num.0011 1 0 0 1 

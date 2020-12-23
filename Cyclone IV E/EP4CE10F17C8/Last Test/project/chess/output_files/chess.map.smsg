@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at chess.v(5): always construct contains both blocking and non-blocking assignments File: C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Last Test/code/chess.v Line: 5

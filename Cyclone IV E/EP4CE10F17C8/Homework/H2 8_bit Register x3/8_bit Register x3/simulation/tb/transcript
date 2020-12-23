@@ -1,0 +1,38 @@
+# Compile of CPU_BUS.V was successful.
+# Compile of CPU_BUS_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.CPU_BUS_tb
+# vsim -gui work.CPU_BUS_tb 
+# Start time: 20:37:38 on Dec 19,2020
+# Loading work.CPU_BUS_tb
+# Loading work.CPU_BUS
+# Loading work.RegCPUData
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 10, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_BUS_tb/uut File: C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v Line: 14
+# ** Warning: (vsim-3722) C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v(14): [TFMPC] - Missing connection for port 'R1'.
+# ** Warning: (vsim-3722) C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v(14): [TFMPC] - Missing connection for port 'R2'.
+# ** Warning: (vsim-3722) C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v(14): [TFMPC] - Missing connection for port 'R3'.
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/CPU_BUS_tb/uut/*
+run
+# Compile of CPU_BUS.V was successful.
+# Compile of CPU_BUS_tb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.CPU_BUS_tb
+# End time: 21:33:11 on Dec 19,2020, Elapsed time: 0:55:33
+# Errors: 0, Warnings: 7
+# vsim -gui work.CPU_BUS_tb 
+# Start time: 21:33:11 on Dec 19,2020
+# Loading work.CPU_BUS_tb
+# Loading work.CPU_BUS
+# Loading work.RegCPUData
+# ** Warning: (vsim-2685) [TFMPC] - Too few port connections for 'uut'.  Expected 10, found 7.
+#    Time: 0 ps  Iteration: 0  Instance: /CPU_BUS_tb/uut File: C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v Line: 14
+# ** Warning: (vsim-3722) C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v(14): [TFMPC] - Missing connection for port 'R1'.
+# ** Warning: (vsim-3722) C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v(14): [TFMPC] - Missing connection for port 'R2'.
+# ** Warning: (vsim-3722) C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v(14): [TFMPC] - Missing connection for port 'R3'.
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint sim:/CPU_BUS_tb/uut/*
+run
+# End time: 03:39:54 on Dec 20,2020, Elapsed time: 6:06:43
+# Errors: 0, Warnings: 5

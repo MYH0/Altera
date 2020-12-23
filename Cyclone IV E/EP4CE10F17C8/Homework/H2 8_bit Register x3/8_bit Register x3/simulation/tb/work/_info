@@ -1,0 +1,83 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_lite/20.1
+vCPU_BUS
+Z0 !s110 1608384779
+!i10b 1
+!s100 HF?R<gkF=>BY^`8U2f_jM1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_BM4UKiN?M8jIohZ<]IW52
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb
+Z4 w1608384237
+Z5 8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/code/CPU_BUS.V
+Z6 FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/code/CPU_BUS.V
+!i122 44
+L0 1 61
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1608384778.000000
+Z9 !s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/code/CPU_BUS.V|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/code/CPU_BUS.V|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+n@c@p@u_@b@u@s
+vCPU_BUS_tb
+R0
+!i10b 1
+!s100 lE_UYNC78Af==R0AeUBo^1
+R1
+I<T:ei_OQkFHYBIki:1IHR2
+R2
+R3
+w1608381250
+8C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v
+FC:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v
+!i122 45
+L0 3 119
+R7
+r1
+!s85 0
+31
+!s108 1608384779.000000
+!s107 C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/0Practice/Hardware/Altera/Cyclone IV E/EP4CE10F17C8/Homework/H2 8_bit Register x3/8_bit Register x3/simulation/tb/CPU_BUS_tb.v|
+!i113 1
+R11
+R12
+n@c@p@u_@b@u@s_tb
+vRegCPUData
+R0
+!i10b 1
+!s100 dLQjSi=60:=gH6:FSo]TK2
+R1
+I[[`jM4A?D2<=LzZ^kK]O^3
+R2
+R3
+R4
+R5
+R6
+!i122 44
+L0 64 18
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@reg@c@p@u@data

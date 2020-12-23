@@ -1,0 +1,7 @@
+|regn
+R => Q~reg0.DATAIN
+Rin => Q~reg0.ENA
+Clock => Q~reg0.CLK
+Q << Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

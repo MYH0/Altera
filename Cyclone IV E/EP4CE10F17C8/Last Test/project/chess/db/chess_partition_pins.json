@@ -1,0 +1,145 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "PP[62]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[61]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[60]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[59]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[58]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[57]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[56]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[55]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[46]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[45]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[44]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[43]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[42]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[41]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[40]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[39]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[30]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[29]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[28]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[27]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[26]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[25]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[24]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[23]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[14]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[13]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[12]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[11]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[10]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[9]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[8]",
+					"strict" : false
+				},
+				{
+					"name" : "PP[7]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "RST",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

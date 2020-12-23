@@ -1,0 +1,177 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "R1[0]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[1]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[2]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[3]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[4]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[5]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[6]",
+					"strict" : false
+				},
+				{
+					"name" : "R1[7]",
+					"strict" : false
+				},
+				{
+					"name" : "R2[0]",
+					"strict" : false
+				},
+				{
+					"name" : "R2[1]",
+					"strict" : false
+				},
+				{
+					"name" : "R2[2]",
+					"strict" : false
+				},
+				{
+					"name" : "R2[3]",
+					"strict" : false
+				},
+				{
+					"name" : "R2[4]",
+					"strict" : false
+				},
+				{
+					"name" : "R2[5]",
+					"strict" : false
+				},
+				{
+					"name" : "R2[6]",
+					"strict" : false
+				},
+				{
+					"name" : "R2[7]",
+					"strict" : false
+				},
+				{
+					"name" : "R3[0]",
+					"strict" : false
+				},
+				{
+					"name" : "R3[1]",
+					"strict" : false
+				},
+				{
+					"name" : "R3[2]",
+					"strict" : false
+				},
+				{
+					"name" : "R3[3]",
+					"strict" : false
+				},
+				{
+					"name" : "R3[4]",
+					"strict" : false
+				},
+				{
+					"name" : "R3[5]",
+					"strict" : false
+				},
+				{
+					"name" : "R3[6]",
+					"strict" : false
+				},
+				{
+					"name" : "R3[7]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_NOE[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_NOE[1]",
+					"strict" : false
+				},
+				{
+					"name" : "CLK_IN",
+					"strict" : false
+				},
+				{
+					"name" : "RESET",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_DATAIN[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_ADD[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_ADD[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_nCS",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_NWE",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_ADD[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_ADD[0]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_DATAIN[1]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_DATAIN[2]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_DATAIN[3]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_DATAIN[4]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_DATAIN[5]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_DATAIN[6]",
+					"strict" : false
+				},
+				{
+					"name" : "FSMC_DATAIN[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

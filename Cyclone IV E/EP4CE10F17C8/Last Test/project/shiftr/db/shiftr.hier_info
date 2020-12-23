@@ -1,0 +1,16 @@
+|shiftr
+Resetn => Q[4]~reg0.ACLR
+Resetn => Q[3]~reg0.ACLR
+Resetn => Q[2]~reg0.ACLR
+Resetn => Q[1]~reg0.ACLR
+w => Q[1]~reg0.DATAIN
+Clock => Q[4]~reg0.CLK
+Clock => Q[3]~reg0.CLK
+Clock => Q[2]~reg0.CLK
+Clock => Q[1]~reg0.CLK
+Q[4] <= Q[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Q[3] <= Q[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Q[2] <= Q[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Q[1] <= Q[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

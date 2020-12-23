@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Dec 19 20:34:57 2020
+Quartus Prime Version : 20.1.0 Build 711 06/05/2020 SJ Lite Edition
+Revision Name : CPU_BUS
+Top-level Entity Name : CPU_BUS
+Family : Cyclone IV E
+Device : EP4CE10F17C8
+Timing Models : Final
+Total logic elements : 57 / 10,320 ( < 1 % )
+    Total combinational functions : 34 / 10,320 ( < 1 % )
+    Dedicated logic registers : 50 / 10,320 ( < 1 % )
+Total registers : 50
+Total pins : 42 / 180 ( 23 % )
+Total virtual pins : 0
+Total memory bits : 0 / 423,936 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 46 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )

@@ -1,0 +1,6 @@
+|trin
+Y => F.DATAIN
+E => F.OE
+F << F.DB_MAX_OUTPUT_PORT_TYPE
+
+
